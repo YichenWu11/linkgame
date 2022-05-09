@@ -1,3 +1,0 @@
-E:/vscode/link_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/vscode/link_game/cmake-build-debug/CMakeFiles/newlink.dir
-E:/vscode/link_game/cmake-build-debug/CMakeFiles/edit_cache.dir
